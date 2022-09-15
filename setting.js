@@ -11,16 +11,16 @@ global.ApiKey = 'coderevolution' //JIKA INGIN MENDAPATKAN KOMISI DAFTAR DI HTTPS
 
 global.smm = {
   nomor : '66615143033',
-  atasnama : 'Nicko'
+  atasnama : 'Sad Human'
 }
 
 // Other
 global.owner = ['66615143033',"66615143033"]
 global.premium = ['66615143033']
 global.sponsor = 'no sponsors in:('
-global.packname = 'Simple-Bot'
-global.footer = '© 2022 Nicko'
-global.author = 'Owner : Nicko\nIg1 : @jwl.nokos\nIg2 : @jwl.nokos'
+global.packname = 'Crizzy-Bot'
+global.footer = '© 2022 Sad Graphy'
+global.author = 'Owner : Sad Graphy\nIg1 : @jwl.nokos\nIg2 : @jwl.nokos'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.act = {
 		wait: 'please wait a moment, processing data...',
